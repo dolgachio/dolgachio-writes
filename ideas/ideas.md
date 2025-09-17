@@ -13,20 +13,22 @@
 Call For Papers till 16 of September: https://docs.google.com/forms/d/e/1FAIpQLSdIPE3ljy1oPKzRBnVn6gUgMG2M7nim0yQk3mW2wf0CHfMz_Q/viewform
 
 1. You might not need … Next.js. Astro and Alternatives
-2. Що дійсно важливо знати про Некст перед тим як брати людину яка шарить Реакт.
-3. Big Team Developement. Suggestion to manage big tech teams for sake of consistency. Репозиторій з керування проєктами оснований на демократичній моделі: конституція, закони і можливість голосувати.
+    - Server Side Rendering deep dive.
+    - Що дійсно важливо знати про Некст перед тим як брати людину яка шарить Реакт.
+    - Big Team Developement. Suggestion to manage big tech teams for sake of consistency. Репозиторій з керування проєктами оснований на демократичній моделі: конституція, закони і можливість голосувати.
 4. CSS бібліотека чому CSS рулить.
-5. Як навчитись на опен-сорс проєктах.
+    - Як навчитись на опен-сорс проєктах.
 6. Blueprint Driven Development + AI.
     - додати розповідь як писати юніт тести: стандарти, рекомендації, тощо.
     - мутаційне тестування тестів.
     - AI для написання коду.
-7. Server Side Rendering deep dive.
 
 ## Застосунки або чат-боти
 
 1. Мапа Київського метро
 2. NextBus: показує хто їде на мою поточну зупинку наступним
 3. Щось просте типу PDF viewer але нормальний
+4. Renty 
+5. Керування чат-ботами з застосунку
   
   
