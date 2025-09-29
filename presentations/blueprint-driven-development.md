@@ -139,30 +139,44 @@ _Дисципліна - це і є свобода_ - Джоко Вілінк, о
 
 Доповідь про тести
 
-1. актуальне фото в хорошій якості
-2. ваша компанія та позиція: EPAM, Senior Sofwtware Engineer
-3. біо: 4-5 пунктів про вас - приклад тут
+1. актуальне фото в хорошій якості: додав до листа
+2. ваша компанія та позиція: EPAM, Senior Software Engineer
+3. біо: 4-5 пунктів про вас 
 
 ### Ukr:
 
-- Займаюсь розробкою 10+ років, але за відчуттям все життя.
-- Веду канал про те, як долучитись до опен сорc розробки: https://t.me/opensourceua
-- Дуже сильно топлю за автоматизацію, юніт-тести і файну документацію
-- Крайні 5 років займаюсь перекладом технічної документації на українську мову і розробкою навчальних програм.
+- Займаюсь розробкою понад 10 років, але за відчуттями - все життя.
+- Веду канал про те, як долучитись до опенсорс розробки OpenSourceUa - https://t.me/opensourceua
+- Дуже сильно топлю за автоматизацію, юніт-тести і файну документацію.
+- Останні 5 років займаюсь перекладом технічної документації українською мовою і розробкою навчальних програм.
 
 ### Eng
 
-WIP
+- I have been developing software for over 10 years, but it feels like a lifetime.
+- I run a channel about getting started with open source development OpenSourceUa - https://t.me/opensourceua
+- I am a strong advocate for automation, unit testing, and good documentation.
+- For the last 5 years, I have been translating technical documentation into Ukrainian and developing educational programs.
 
-5. ваші соцмережі (за бажанням): GitHub: https://github.com/dolgachio, Instagram:
-6. тема доповіді: Blueprint Driven Development, або як я писав тести до коду в еру ШІ і не вмер.
+5. ваші соцмережі (за бажанням): GitHub: https://github.com/dolgachio, Telegram: https://t.me/opensourceua, Instagram: https://www.instagram.com/dolgach.io/
+6. тема доповіді: 
+
+Ukr: Blueprint Driven Development, або як я писав код за TDD в еру ШІ і не вмер.
+Eng: Blueprint Driven Development, or how I wrote code using TDD in the era of AI and didn't die.
 
 7. опис доповіді
 
-В епоху штучного інтелекту писати код стало простіше, ніж будь-коли. Молочник більше не везе молоко, а пекар не випікає хліб, бо всі генерують код. Проте що там з якістю того коду? Раніше ми писали автоматичні тести, щоб впевнитись в якості, але може воно нам більше не треба, бо ШІ краще знає як правильно? На мою думку юніт-тести і подібні автоматичні перевірки ще ніколи не були важливішими ніж зараз, бо треба контролювати те, що пишуть як ШІ і молочник з пекарем, так і ваш тімлід. Я покажу на практиці, як ефективно писати по TDD(Test-Driven Development), розповім, чому більшість розробників неправильно розуміють цю техніку. Я доведу вам, що самі тести це це не головне, а концентруватись треба на створенні плану і архітектури. Ба-більше, це лише початок, ви також дізнаєтесь:
+Ukr:
+В епоху штучного інтелекту писати код стало простіше, ніж будь-коли. Молочник більше не везе молоко, а пекар не випікає хліб, бо всі генерують код. Проте що з якістю цього коду? Раніше ми писали автоматичні тести, щоб впевнитися в якості, але, можливо, тепер це не потрібно, бо ШІ краще знає, як правильно? На мою думку, юніт-тести та подібні автоматичні перевірки ще ніколи не були такими важливими, як зараз, адже потрібно контролювати те, що пишуть і ШІ, і молочник з пекарем, і ваш тімлід. Я покажу на практиці, як ефективно працювати за TDD (Test-Driven Development), розповім, чому більшість розробників неправильно розуміють цю техніку, і доведу, що самі тести — це не головне, а концентруватися потрібно на створенні плану та архітектури. Ба більше, це лише початок — ви також дізнаєтесь:
 
-- Які інснуть найкращі практики написання юніт-тестів, як відрізнити хороший юніт-тест від поганого і чому важливо робити рев’ю не тільки коду, але й тестів.
-- Як заставити ШІ інтелект одразу писати понормальному
-- Як дисципліна і здоровий глузд покращують якість коду, заспокоють нерви і дають впевненість в завтрашньому дні
+- Які існують найкращі практики написання юніт-тестів, як відрізнити хороший юніт-тест від поганого і чому важливо робити рев’ю не тільки коду, але й тестів.
+- Як змусити ШІ одразу писати якісний код.
+- Як дисципліна і здоровий глузд покращують якість коду, заспокоють нерви і дають впевненість в завтрашньому дні.
+
+Eng:
+In the era of artificial intelligence, writing code has become easier than ever. The milkman no longer delivers milk, and the baker no longer bakes bread — everyone is generating code. But what about the quality of that code? We used to write automated tests to ensure quality, but do we still need them if AI supposedly knows best? In my opinion, unit tests and similar automated checks have never been more important than they are now, because we need to control what is written not only by AI, but also by the milkman, the baker, and even your team lead. I will demonstrate in practice how to effectively use TDD (Test-Driven Development), explain why most developers misunderstand this technique, and prove that tests themselves are not the main goal, and you should focus on planning and architecture. And that’s just the beginning. You will also learn:
+
+- The best practices for writing unit tests, how to distinguish a good unit test from a bad one, and why it’s important to review not only code, but also tests.
+- How to make AI write code properly from the start.
+- How discipline and common sense improve code quality, calm your nerves, and give you confidence in the future.
 
 8. рівень доповіді залишаємо Intermediate?: так давайте залишемо intermediate
