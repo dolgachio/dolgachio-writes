@@ -31,4 +31,9 @@ Call For Papers till 16 of September: https://docs.google.com/forms/d/e/1FAIpQLS
 4. Renty 
 5. Керування чат-ботами з застосунку
   
+## Опен сорс
+
+1. made-in-canada and made-in-latvia
+2. next-runtime-env
+3. leaflet plugins
   
