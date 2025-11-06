@@ -8,6 +8,7 @@
 6. Сайт зі списком допомоги від партнерів України
 7. Радіо станція Lo-Fi
 
+
 ## Cтатті & Доповіді
 
 Call For Papers till 16 of September: https://docs.google.com/forms/d/e/1FAIpQLSdIPE3ljy1oPKzRBnVn6gUgMG2M7nim0yQk3mW2wf0CHfMz_Q/viewform
@@ -22,13 +23,14 @@ Call For Papers till 16 of September: https://docs.google.com/forms/d/e/1FAIpQLS
     - додати розповідь як писати юніт тести: стандарти, рекомендації, тощо.
     - мутаційне тестування тестів.
     - AI для написання коду.
+7. Стаття про CORS.
 
 ## Застосунки або чат-боти
 
 1. Мапа Київського метро
 2. NextBus: показує хто їде на мою поточну зупинку наступним
 3. Щось просте типу PDF viewer але нормальний
-4. Renty 
+4. Renty там де все в оренду
 5. Керування чат-ботами з застосунку
   
 ## Опен сорс
@@ -36,4 +38,11 @@ Call For Papers till 16 of September: https://docs.google.com/forms/d/e/1FAIpQLS
 1. made-in-canada and made-in-latvia
 2. next-runtime-env
 3. leaflet plugins
+4. ag-grid theme for excel view
+
+## Інше
+
+1. Зробити челендж по створенню продукту за 30 днів. І про це розповідати в Інсті або Тредс.
+
+
   
